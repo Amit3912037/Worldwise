@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Panipat",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-10T03:31:27.832Z",
+      "notes": "",
+      "position": {
+        "lat": "29.385967742582814",
+        "lng": "76.99356079101564"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Israna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-10T03:31:40.177Z",
+      "notes": "",
+      "position": {
+        "lat": "29.283072092279337",
+        "lng": "76.88369750976564"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Safidon",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-10T03:32:15.405Z",
+      "notes": "",
+      "position": {
+        "lat": "29.42423655701065",
+        "lng": "76.65292380726044"
+      },
+      "id": 3
+    }
+  ]
+}
